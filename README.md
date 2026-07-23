@@ -31,5 +31,5 @@ To reproduce the evaluation pipelines and visualizations, run the notebooks in t
 7. `/Real_Data_Experiments/Final_Visualizations.ipynb` (Creates a table and bar graph of top 10 genes)
 
 ## Documentation
-* [Project Report (PDF)](Final_Report.pdf)
-* [Final Presentation Deck (PDF)](Presentation.pdf)
+* [Project Report (PDF)](presentation/Final_Report.pdf)
+* [Final Presentation Deck (PDF)](presentation/Presentation.pdf)
